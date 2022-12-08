@@ -21,6 +21,7 @@ import androidx.appcompat.app.AppCompatActivity
 
 /**
  * An activity that inflates a layout that has a NavHostFragment.
+ * test ...
  */
 class MainActivity : AppCompatActivity() {
 
